@@ -1,105 +1,153 @@
 # Tematik İngilizce Kelimeler Türkçe Çeviri
 
+## Renkler (Colors)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Black | Siyah |
+| Blue | Mavi |
+| Brown | Kahverengi |
+| Green | Yeşil |
+| Orange | Portakal rengi / Portakal |
+| Pink | Pembe |
+| Purple | Mor |
+| Red | Kırmızı |
+| Yellow | Sarı |
+
+## Sayılar (Numbers)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| One | 1 |
+| Two | 2 |
+| Three | 3 |
+| Four | 4 |
+| Five | 5 |
+| Six | 6 |
+| Seven | 7 |
+| Eight | 8 |
+| Nine | 9 |
+| Ten | 10 |
+| Eleven | 11 |
+| Twelve | 12 |
+
+## Günler (Days of the Week)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Monday | Pazartesi |
+| Tuesday | Salı |
+| Wednesday | Çarşamba |
+| Thursday | Perşembe |
+| Friday | Cuma |
+| Saturday | Cumartesi |
+| Sunday | Pazar |
+
+## Aile (Family)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Mother | Anne |
+| Father | Baba |
+| Brother | Erkek kardeş |
+| Sister | Kız kardeş |
+| Grandfather | Büyükkbaba |
+| Grandmother | Büyükanne |
+| Uncle | Amca / Dayı |
+| Aunt | Hala / Teyze |
+| Baby | Bebek |
+
+## Vücudun Parçaları (Body Parts)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Head | Baş |
+| Eye | Göz |
+| Ear | Kulak |
+| Nose | Burun |
+| Mouth | Ağız |
+| Hand | El |
+| Arm | Kol |
+| Leg | Bacak |
+| Foot | Ayak |
+| Face | Yüz |
+
+## Hayvanlar (Animals)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Bee | Arı |
+| Cat | Kedi |
+| Dog | Köpek |
+| Cow | İnek |
+| Frog | Kurbağa |
+| Lamb | Kuzu |
+| Mouse | Fare |
+| Turtle | Kaplumbağa |
+
+## Yiyecekler (Food)
+
 | İngilizce | Türkçe |
 | :--- | :--- |
 | Apple | Elma |
-| Arm | Kol |
-| Aunt | Hala- teyze |
-| Baby | Bebek |
 | Banana | Muz |
-| Bee | Arı |
-| Bike | Bisiklet |
-| Black | Siyah |
-| Blue | Mavi |
-| Book | Kitap |
 | Bread | Ekmek |
-| Brother | Erkek kardeş |
-| Brown | Kahverengi |
-| Bus | Otobüs |
 | Cake | Pasta |
-| Car | Araba |
-| Cat | Kedi |
-| Chair | Sandalye |
 | Cheese | Peynir |
 | Chicken | Tavuk |
-| Coat | Mont |
-| Cow | İnek |
-| Dog | Köpek |
-| Dress | Elbise |
-| Ear | Kulak |
 | Egg | Yumurta |
-| Eight | 8 |
-| Eleven | 11 |
-| Eye | Göz |
-| Face | Yüz |
-| Father | Baba |
-| Fire engine | İtfaiye |
-| Fish | Balık |
-| Five | 5 |
-| Foot | Ayak |
-| Four | 4 |
-| Friday | Cuma |
-| Frog | Kurbağa |
-| Grandfather | Büyükbaba |
-| Grandmother | Büyükanne |
-| Green | Yeşil |
-| Hand | El |
-| Hat | Şapka |
-| Head | Baş |
-| Home | Yuva-ev |
 | Honey | Bal |
 | Ice-cream | Dondurma |
-| Jacket | Ceket |
-| Jeep | Jip |
-| Lamb | Kuzu |
-| Leg | Bacak |
 | Milk | Süt |
-| Monday | Pazartesi |
-| Mother | Anne |
-| Motorcycle | Motosiklet |
-| Mouse | Fare |
-| Mouth | Ağız |
-| Nine | 9 |
-| Nose | Burun |
-| One | 1 |
-| Orange | Oranj |
-| Orange | Portakal |
+
+## Kıyafetler (Clothes)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Coat | Mont |
+| Dress | Elbise |
+| Hat | Şapka |
+| Jacket | Ceket |
 | Pants | Pantolon |
-| Paper | Kağıt |
-| Pencil | Kalem |
-| Pink | Pembe |
-| Plane | Uçak |
-| Police car | Polis arabası |
-| Purple | Mor |
 | Pyjamas | Pijama |
-| Red | Kırmızı |
-| Rubber | Silgi |
-| Socks | Çorap |
-| Saturday | Cumartesi |
-| School | Okul |
-| Scissors | Makas |
-| Seven | 7 |
-| Ship | Gemi |
 | Shirt | Gömlek |
 | Shoe | Ayakkabı |
-| Sister | Kız kardeş |
-| Six | 6 |
-| Student | Öğrenci |
-| Sunday | Pazar |
+| Socks | Çorap |
 | Sweater | Kazak |
+
+## Ulaşım (Transport)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Bike | Bisiklet |
+| Bus | Otobüs |
+| Car | Araba |
+| Fire engine | İtfaiye |
+| Jeep | Jip |
+| Motorcycle | Motosiklet |
+| Plane | Uçak |
+| Police car | Polis arabası |
+| Ship | Gemi |
+| Train | Tren |
+
+## Okul Malzemeleri (School Items)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
+| Book | Kitap |
+| Paper | Kağıt |
+| Pencil | Kalem |
+| Rubber | Silgi |
+| Scissors | Makas |
+| School | Okul |
+| Student | Öğrenci |
 | Table | Masa |
 | Teacher | Öğretmen |
-| Ten | 10 |
-| Three | 3 |
-| Thursday | Perşembe |
+
+## Zaman (Time)
+
+| İngilizce | Türkçe |
+| :--- | :--- |
 | Today | Bugün |
 | Tomorrow | Yarın |
-| Train | Tren |
-| Tuesday | Salı |
-| Turtle | Kaplumbağa |
-| Twelve | 12 |
-| Two | 2 |
-| Uncle | Amca-Dayı |
-| Wednesday | Çarşamba |
-| Yellow | Sarı |
 | Yesterday | Dün |

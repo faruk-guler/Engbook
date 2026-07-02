@@ -1,4 +1,4 @@
-﻿# Exam Vocabulary and Idioms (Sınav Kelimeleri ve Deyimler)
+# Exam Vocabulary and Idioms (Sınav Kelimeleri ve Deyimler)
 
 | İngilizce (Kelime/Deyim) | Türkçe |
 | :--- | :--- |
@@ -30,7 +30,6 @@
 | bite the bullet | dişini sıkmak, acıya katlanmak |
 | break a leg | şeytanın bacağını kır, iyi şanslar |
 | burn the midnight oil | gece geç saatlere kadar çalışmak |
-| by the way | bu arada, aklıma gelmişken |
 | cacophony | kakofoni, ses karmaşası |
 | capricious | dönek, kaprisli, sağı solu belli olmayan |
 | clandestine | gizli, gizemli, el altından yürütülen |
@@ -74,7 +73,6 @@
 | eulogy | methiye, övgü |
 | euphemism | örtmece, kibarlaştırma |
 | exacerbate | kötüleştirmek, alevlendirmek |
-| excuse me | afedersiniz, izninizle |
 | exemplary | örnek niteliğinde |
 | exonerate | aklamak, temize çıkarmak |
 | expedient | çıkara uygun, elverişli geçici çözüm |
@@ -116,7 +114,6 @@
 | impetuous | fevri, aceleci, coşkun |
 | implacable | yatıştırılamaz, amansız |
 | impudent | arsız, utanmaz, küstah |
-| in a hurry | acele içinde, telaşlı |
 | inane | anlamsız, boş, aptalca |
 | inchoate | henüz tamamlanmamış, yeni başlayan |
 | incisive | keskin, delici, net (analiz vb.) |
@@ -145,7 +142,6 @@
 | make up one's mind | karar vermek |
 | once in a while | arada sırada, tek tük |
 | piece of cake | çocuk oyuncağı, çok kolay |
-| see you later | sonra görüşürüz |
 | spill the beans | baklayı ağzından çıkarmak, sırrı ifşa etmek |
 | take care | kendine iyi bak |
 | take into account | göz önünde bulundurmak, hesaba katmak |

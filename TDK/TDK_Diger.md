@@ -1,4 +1,4 @@
-﻿# TDK Türkçe - İngilizce Sözlük - Diger Harfi
+# TDK Türkçe - İngilizce Sözlük - Diğer (â ile Başlayan Kelimeler)
 
 | Türkçe | İngilizce |
 | :--- | :--- |

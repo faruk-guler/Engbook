@@ -12,10 +12,10 @@
 | act | davranmak |
 | action | aksiyon |
 | actor | aktör |
-| add | Ekle |
+| add | eklemek |
 | address | adres |
 | admire | beğenmek |
-| admit | Kabul et |
+| admit | kabul etmek |
 | advance | ilerlemek |
 | advantage | avantaj |
 | adventure | macera |
@@ -26,20 +26,20 @@
 | against | karşısında |
 | age | yaş |
 | ago | önce |
-| agree | Katılıyorum |
+| agree | katılmak |
 | air | hava |
 | airport | havalimanı |
-| all | herşey |
+| all | hepsi, her şey |
 | allow | izin vermek |
 | almost | neredeyse |
 | alone | tek başına |
 | along | boyunca |
 | already | zaten |
-| also | Ayrıca |
+| also | ayrıca |
 | although | olmasına rağmen |
 | always | her zaman |
 | among | arasında |
-| amount | Miktar |
+| amount | miktar |
 | and | ve |
 | angry | kızgın |
 | animal | hayvan |
@@ -51,14 +51,14 @@
 | apple | elma |
 | area | alan |
 | arm | kol |
-| army | Ordu |
+| army | ordu |
 | around | etrafında |
 | arrange | düzenlemek |
 | arrive | varmak |
-| art | Sanat |
+| art | sanat |
 | article | makale |
 | as | gibi |
-| ask | Sor |
+| ask | sormak |
 | asleep | uykuda |
 | at | -de |
 | attack | saldırı |
@@ -78,12 +78,12 @@
 | be | olmak |
 | bear | ayı |
 | beautiful | güzel |
-| because | Çünkü |
+| because | çünkü |
 | become | olmak |
 | bed | yatak |
 | beer | bira |
 | before | önce |
-| begin | başla |
+| begin | başlamak |
 | behind | arkasında |
 | believe | inanmak |
 | belong | ait olmak |
@@ -106,7 +106,7 @@
 | both | her ikisi de |
 | bottle | şişe |
 | bottom | alt |
-| box | Kutu |
+| box | kutu |
 | boy | oğlan |
 | branch | şube |
 | brave | cesur |
@@ -117,7 +117,7 @@
 | bridge | köprü |
 | bring | getirmek |
 | brother | erkek kardeş |
-| brown | Kahverengi |
+| brown | kahverengi |
 | build | inşa etmek |
 | building | bina |
 | built | inşa edilmiş |
@@ -125,20 +125,20 @@
 | business | iş |
 | busy | meşgul |
 | but | fakat |
-| butter | Tereyağı |
+| butter | tereyağı |
 | buy | satın almak |
 | cake | kek |
 | call | aramak |
 | calm | sakin |
 | camera | kamera |
-| can | Yapabilmek |
-| captain | Kaptan |
+| can | yapabilmek |
+| captain | kaptan |
 | car | araba |
 | card | kart |
 | care | bakım |
 | careful | dikkatli |
 | careless | dikkatsiz |
-| carry | Taşımak |
+| carry | taşımak |
 | case | durum |
 | cat | kedi |
 | catch | tutmak |
@@ -148,26 +148,26 @@
 | century | yüzyıl |
 | certain | belirli |
 | certainly | kesinlikle |
-| chain | Zincir |
+| chain | zincir |
 | chair | sandalye |
 | chance | şans |
 | change | değişiklik |
 | character | karakter |
 | charge | şarj etmek |
 | cheap | ucuz |
-| check | Kontrol |
+| check | kontrol etmek |
 | cheese | peynir |
 | chicken | tavuk |
 | chief | şef |
 | child | çocuk |
 | chocolate | çikolata |
 | choice | tercih |
-| choose | Seç |
+| choose | seçmek |
 | church | kilise |
 | cigarette | sigara |
 | cinema | sinema |
 | circle | daire |
-| city | Kent |
+| city | şehir, kent |
 | class | sınıf |
 | clean | temiz |
 | clear | açık |
@@ -181,25 +181,25 @@
 | coal | kömür |
 | coast | sahil |
 | coat | ceket |
-| coffee | Kahve |
+| coffee | kahve |
 | coin | madeni para |
 | cold | soğuk |
 | collect | toplamak |
 | college | kolej |
 | colour | renk |
-| come | gel |
+| come | gelmek |
 | comfort | konfor |
 | comfortable | rahat |
-| common | Yaygın |
+| common | yaygın |
 | company | şirket |
-| complete | tamamlayınız |
+| complete | tamamlamak |
 | computer | bilgisayar |
 | condition | durum |
 | confirm | onaylamak |
 | consider | düşünmek |
 | consist | oluşmak |
 | contain | içeren |
-| continue | devam et |
+| continue | devam etmek |
 | control | kontrol |
 | cook | pişirmek |
 | copy | kopya |
@@ -208,7 +208,7 @@
 | cost | maliyet |
 | cottage | kulübe |
 | could | abilir |
-| count | Miktar |
+| count | saymak |
 | country | ülke |
 | course | kurs |
 | court | mahkeme |
@@ -218,9 +218,9 @@
 | crime | suç |
 | cross | çapraz |
 | crowd | kalabalık |
-| cry | Ağla |
+| cry | ağlamak |
 | culture | kültür |
-| cup | Fincan |
+| cup | fincan |
 | customer | müşteri |
 | cut | kesmek |
 | damage | hasar |
@@ -232,9 +232,9 @@
 | day | gün |
 | dead | ölü |
 | deal | anlaştık mı |
-| dear | Sayın |
+| dear | sevgili, değerli |
 | death | ölüm |
-| decide | karar ver |
+| decide | karar vermek |
 | decision | karar |
 | declare | bildirmek |
 | deep | derin |
@@ -242,7 +242,7 @@
 | degree | derece |
 | delay | gecikme |
 | demand | talep |
-| department | Bölüm |
+| department | bölüm |
 | depend | bağımlı |
 | describe | tanımlamak |
 | desert (n) | çöl |
@@ -274,7 +274,7 @@
 | draw | çizmek |
 | dream | rüya |
 | dress | elbise |
-| drink | İçmek |
+| drink | içmek |
 | drive | sürücü |
 | drop | düşürmek |
 | dry | kuru |
@@ -285,15 +285,15 @@
 | ear | kulak |
 | early | erken |
 | earn | kazanmak |
-| earth | Dünya |
-| east | Doğu |
+| earth | dünya, yer |
+| east | doğu |
 | easy | kolay |
 | eat | yemek |
 | edge | kenar |
-| education | Eğitim |
+| education | eğitim |
 | effect | etki |
 | effort | çaba |
-| egg | Yumurta |
+| egg | yumurta |
 | eight | sekiz |
 | either | ya |
 | end | son |
@@ -308,7 +308,7 @@
 | especially | özellikle |
 | even | hatta |
 | evening | akşam |
-| event | Etkinlik |
+| event | etkinlik, olay |
 | ever | hiç |
 | every | her |
 | everything | herşey |
@@ -333,7 +333,7 @@
 | fall | sonbahar |
 | family | aile |
 | famous | tanınmış |
-| farm | Çiftlik |
+| farm | çiftlik |
 | farmer | çiftçi |
 | fast | hızlı |
 | fat | şişman |
@@ -355,14 +355,14 @@
 | floor | zemin |
 | flower | çiçek |
 | fly | uçmak |
-| follow | takip et |
-| food | Gıda |
+| follow | takip etmek |
+| food | gıda, yiyecek |
 | foot | ayak |
 | for | için |
-| foreign | Dış |
+| foreign | yabancı |
 | forget | unutmak |
 | form | form |
-| free | Bedava |
+| free | özgür, bedava |
 | fresh | taze |
 | friend | arkadaş |
 | from | itibaren |
@@ -373,7 +373,7 @@
 | future | gelecek |
 | game | oyun |
 | garage | garaj |
-| garden | Bahçe |
+| garden | bahçe |
 | gas | gaz |
 | gate | kapı |
 | general | genel |
@@ -385,7 +385,7 @@
 | give | vermek |
 | glad | memnun |
 | glass | bardak |
-| go | Git |
+| go | gitmek |
 | goal | hedef |
 | gold | altın |
 | good | iyi |
@@ -409,20 +409,20 @@
 | hard | zor |
 | hat | şapka |
 | hate | nefret |
-| have | Sahip olmak |
+| have | sahip olmak |
 | he | o |
 | head | baş |
 | health | sağlık |
 | hear | duymak |
 | heart | kalp |
 | heavy | ağır |
-| help | Yardım |
+| help | yardım etmek |
 | her | ona |
 | here | buraya |
 | hide | saklamak |
 | high | yüksek |
 | his | onun |
-| history | Tarih |
+| history | tarih |
 | hold | ambar |
 | hole | delik |
 | holiday | tatil |
@@ -430,16 +430,16 @@
 | hope | umut |
 | horse | at |
 | hospital | hastane |
-| hot | Sıcak |
+| hot | sıcak |
 | hotel | otel |
 | hour | saat |
 | house | ev |
-| how | Nasıl |
+| how | nasıl |
 | hungry | aç |
 | husband | koca |
 | ice | buz |
 | idea | fikir |
-| if | Eğer |
+| if | eğer |
 | ill | hasta |
 | illegal | yasadışı |
 | illness | hastalık |
@@ -451,7 +451,7 @@
 | impossible | imkansız |
 | improve | geliştirmek |
 | in | içinde |
-| include | Dahil etmek |
+| include | dahil etmek |
 | increase | artırmak |
 | indeed | aslında |
 | independent | bağımsız |
@@ -468,12 +468,12 @@
 | intelligent | akıllı |
 | interest | faiz |
 | interesting | ilginç |
-| international | Uluslararası |
+| international | uluslararası |
 | interview | röportaj |
 | into | içine |
 | introduce | takdim etmek |
-| invite | Davet et |
-| iron | Demir |
+| invite | davet etmek |
+| iron | demir; ütü |
 | island | ada |
 | it | o |
 | jacket | ceket |
@@ -481,10 +481,10 @@
 | join | katılmak |
 | joke | şaka |
 | journey | seyahat |
-| juice | Meyve suyu |
+| juice | meyve suyu |
 | jump | atlama |
 | just | sadece |
-| keep | Tut |
+| keep | tutmak, korumak |
 | key | anahtar |
 | kill | öldürmek |
 | kind | tür |
@@ -499,16 +499,16 @@
 | late | geç |
 | laugh | gülmek |
 | law | yasa |
-| leader | Önder |
+| leader | önder, lider |
 | learn | öğrenmek |
 | leave | ayrılmak |
 | left | ayrıldı |
 | leg | bacak |
 | less | az |
 | lesson | ders |
-| let | İzin Vermek |
+| let | izin vermek |
 | letter | mektup |
-| lie | Yalan |
+| lie | yalan söylemek; uzanmak |
 | life | hayat |
 | light | ışık |
 | like | sevmek |
@@ -517,24 +517,24 @@
 | little | küçük |
 | live (v) | canlı |
 | long | uzun |
-| look | bak |
+| look | bakmak |
 | lose | kaybetmek |
-| love | Aşk |
+| love | aşk; sevmek |
 | low | düşük |
 | machine | makine |
 | magazine | dergi |
 | main | ana |
-| make | Yapmak |
+| make | yapmak |
 | man | adam |
 | many | birçok |
 | map | harita |
 | mark | işaret |
-| market | Market |
+| market | market, pazar |
 | marriage | evlilik |
 | marry | evlenmek |
 | match | eşleşme |
 | material | malzeme |
-| may | Mayıs |
+| may | -ebilir (izin/olasılık) |
 | meal | yemek |
 | mean | anlamına gelmek |
 | measure | ölçü |
@@ -543,21 +543,21 @@
 | meet | buluşmak |
 | meeting | toplantı |
 | member | üye |
-| message | İleti |
+| message | ileti, mesaj |
 | metal | metal |
 | middle | orta |
-| milk | Süt |
+| milk | süt |
 | mind | zihin |
 | mine | benim |
 | minute (n) | dakika |
-| miss | Özlemek |
+| miss | özlemek; ıskalamak |
 | mistake | hata |
 | modern | modern |
 | moment | an |
 | money | para |
 | month | ay |
 | moon | ay |
-| more | Daha |
+| more | daha fazla |
 | morning | sabah |
 | most | çoğu |
 | mother | anne |
@@ -576,10 +576,10 @@
 | never | asla |
 | new | yeni |
 | newspaper | gazete |
-| next | Sonraki |
-| nice | Güzel |
+| next | sonraki |
+| nice | güzel, hoş |
 | night | gece |
-| no | Hayır |
+| no | hayır |
 | noise | gürültü |
 | nose | burun |
 | not | değil |
@@ -596,7 +596,7 @@
 | oil | sıvı yağ |
 | old | eski |
 | on | açık |
-| once | bir Zamanlar |
+| once | bir kez; bir zamanlar |
 | one | bir |
 | only | bir tek |
 | open | açık |
@@ -604,7 +604,7 @@
 | opinion | görüş |
 | opposite | karşısında |
 | or | veya |
-| orange | Portakal |
+| orange | portakal; turuncu |
 | order | sipariş |
 | other | diğer |
 | out | dışarı |
@@ -612,22 +612,22 @@
 | over | bitmiş |
 | own | kendi |
 | page | sayfa |
-| pain | Ağrı |
+| pain | ağrı |
 | paint | boya |
 | pair | çift |
 | paper | kağıt |
 | parcel | parsel |
 | parent | ebeveyn |
 | park | park |
-| part | Bölüm |
-| party | Parti |
+| part | bölüm, parça |
+| party | parti; toplantı |
 | pass | geçmek |
 | passenger | yolcu |
 | past | geçmiş |
 | path | yol |
 | patient | hasta |
 | pay | ödemek |
-| peace | Barış |
+| peace | barış |
 | peaceful | huzurlu |
 | pen | dolma kalem |
 | pencil | kalem |
@@ -650,11 +650,11 @@
 | plane | uçak |
 | plant | bitki |
 | plate | tabak |
-| play | Oyna |
+| play | oynamak |
 | player | oyuncu |
 | pleasant | hoş |
-| please | Lütfen |
-| pleasure | Zevk |
+| please | lütfen |
+| pleasure | zevk, keyif |
 | plenty | bol |
 | point | nokta |
 | police | polis |
@@ -663,15 +663,15 @@
 | popular | popüler |
 | position | durum |
 | possible | mümkün |
-| post | İleti |
+| post | posta; gönderi |
 | pound | pound |
-| pour | dökün |
+| pour | dökmek |
 | power | güç |
 | practise | uygulama |
 | prefer | tercih etmek |
-| prepare | Hazırlamak |
+| prepare | hazırlamak |
 | present (adj) | mevcut |
-| president | Devlet Başkanı |
+| president | devlet başkanı |
 | press | basın |
 | pretty | güzel |
 | price | fiyat |
@@ -689,7 +689,7 @@
 | prove | kanıtlamak |
 | provide | sağlamak |
 | public | halka açık |
-| pull | Çek |
+| pull | çekmek |
 | purpose | amaç |
 | put | koymak |
 | question | soru |
@@ -705,7 +705,7 @@
 | read | okumak |
 | ready | hazır |
 | real | gerçek |
-| really | Gerçekten mi |
+| really | gerçekten |
 | reason | sebep |
 | receive | teslim almak |
 | recent | son |
@@ -720,9 +720,9 @@
 | religion | din |
 | remain | kalmak |
 | remember | hatırlamak |
-| remove | Kaldırmak |
+| remove | kaldırmak |
 | repair | tamir etmek |
-| repeat | tekrar et |
+| repeat | tekrarlamak |
 | replace | yerine koymak |
 | reply | cevap |
 | report | bildiri |
@@ -742,31 +742,31 @@
 | risk | risk |
 | river | nehir |
 | road | yol |
-| rock | Kaya |
+| rock | kaya; müzik türü |
 | roll | rulo |
 | room | oda |
 | rough | kaba |
 | round | yuvarlak |
 | row | kürek çekmek |
 | rule | kural |
-| run | Çalıştırmak |
+| run | koşmak; çalıştırmak |
 | rush | acele |
 | sad | üzgün |
 | safe | kasa |
 | salt | tuz |
 | same | aynı |
 | save | kayıt etmek |
-| say | söyle |
+| say | söylemek |
 | school | okul |
-| science | Bilim |
-| score | Puan |
+| science | bilim |
+| score | puan; skor |
 | sea | deniz |
 | search | arama |
 | season | mevsim |
 | seat | oturma yeri |
 | second | ikinci |
 | secret | gizli |
-| secretary | Sekreter |
+| secretary | sekreter |
 | see | görmek |
 | seem | görünmek |
 | sell | satmak |
@@ -776,17 +776,17 @@
 | serious | ciddi |
 | serve | servis |
 | service | hizmet |
-| set | Ayarlamak |
+| set | ayarlamak; takım |
 | several | birkaç |
 | shall | acak |
 | shape | şekil |
-| share | Paylaş |
+| share | paylaşmak; hisse |
 | sharp | keskin |
 | she | o |
 | ship | gemi |
 | shoe | ayakkabı |
 | shoot | ateş etmek |
-| shop | Dükkan |
+| shop | dükkan |
 | short | kısa |
 | should | meli |
 | shoulder | omuz |
@@ -799,7 +799,7 @@
 | similar | benzer |
 | simple | basit |
 | since | dan beri |
-| sing | şarkı söyle |
+| sing | şarkı söylemek |
 | single | tek |
 | sister | kız kardeş |
 | sit | oturmak |
@@ -813,7 +813,7 @@
 | smart | akıllı |
 | smell | koku |
 | smile | gülümsemek |
-| smoke | Sigara içmek |
+| smoke | sigara içmek; duman |
 | smooth | pürüzsüz |
 | snow | kar |
 | so | yani |
@@ -830,21 +830,21 @@
 | sorry | afedersiniz |
 | sound | ses |
 | south | güney |
-| space | Uzay |
+| space | uzay; alan |
 | speak | konuşmak |
 | special | özel |
 | speech | konuşma |
 | speed | hız |
 | spend | harcamak |
-| spoil | Yağlamalamak |
+| spoil | mahvetmek, bozmak |
 | sport | spor |
 | spot | yer |
 | spread | yaymak |
 | spring | ilkbahar |
-| square | Meydan |
+| square | kare; meydan |
 | stand | ayakta durmak |
 | star | star |
-| start | Başlat |
+| start | başlamak |
 | state | durum |
 | station | istasyon |
 | stay | kalmak |
@@ -852,14 +852,14 @@
 | step | adım |
 | still | hala |
 | stone | taş |
-| stop | Dur |
+| stop | durmak |
 | store | mağaza |
 | story | hikaye |
-| straight | Düz |
+| straight | düz, doğru |
 | strange | garip |
 | street | sokak |
 | strong | kuvvetli |
-| student | Öğrenci |
+| student | öğrenci |
 | study | ders çalışma |
 | subject (n) | konu |
 | success | başarı |
@@ -870,10 +870,10 @@
 | suggest | önermek |
 | suit | takım elbise |
 | summer | yaz |
-| sun | Güneş |
+| sun | güneş |
 | supply | arz |
 | support | destek |
-| sure | Elbette |
+| sure | elbette, emin |
 | surface | yüzey |
 | sweet | tatlı |
 | swim | yüzmek |
@@ -883,20 +883,20 @@
 | talk | konuşmak |
 | tall | uzun boylu |
 | taste | damak zevki |
-| tea | Çay |
+| tea | çay |
 | teach | öğretmek |
 | teacher | öğretmen |
 | television | televizyon |
 | tell | söylemek |
 | temperature | sıcaklık |
-| test | Ölçek |
+| test | test, ölçek |
 | than | den |
 | thank | teşekkür |
 | that | o |
 | the | the |
 | their | onların |
 | then | sonra |
-| there | Orada |
+| there | orada |
 | these | bunlar |
 | they | onlar |
 | thick | kalın |
@@ -919,7 +919,7 @@
 | top | üst |
 | touch | dokunma |
 | town | kasaba |
-| trade | Ticaret |
+| trade | ticaret |
 | train | tren |
 | travel | seyahat |
 | tree | ağaç |
@@ -927,14 +927,14 @@
 | trouble | sorun |
 | true | gerçek |
 | trust | güven |
-| try | Deneyin |
+| try | denemek |
 | turn | dönüş |
 | two | iki |
 | type | tip |
 | uncle | amca dayı |
 | under | altında |
 | understand | anlama |
-| university | Üniversite |
+| university | üniversite |
 | until | a kadar |
 | up | yukarı |
 | upon | üzerine |
@@ -944,7 +944,7 @@
 | usually | genelde |
 | valley | vadi |
 | value | değer |
-| variety | Çeşitlilik |
+| variety | çeşitlilik |
 | various | çeşitli |
 | vegetable | sebze |
 | very | çok |
@@ -954,20 +954,20 @@
 | visit | ziyaret etmek |
 | voice | ses |
 | vote | oy |
-| wait | Bekle |
+| wait | beklemek |
 | walk | yürümek |
 | wall | duvar |
 | want | istemek |
 | war | savaş |
-| warm | Ilık |
+| warm | ılık, sıcak |
 | wash | yıkama |
 | watch | izlemek |
-| water | Su |
+| water | su |
 | way | yol |
-| we | Biz |
+| we | biz |
 | weather | hava |
 | week | hafta |
-| welcome | Hoşgeldiniz |
+| welcome | hoş geldiniz |
 | well | iyi |
 | west | batı |
 | what | ne |
@@ -987,9 +987,9 @@
 | wish | dilek |
 | with | ile |
 | without | olmadan |
-| woman | Kadın |
+| woman | kadın |
 | wonderful | olağanüstü |
-| wood | Odun |
+| wood | odun; ağaçlık |
 | word | kelime |
 | work | iş |
 | world | dünya |
@@ -997,7 +997,7 @@
 | write | yazmak |
 | wrong | yanlış |
 | year | yıl |
-| yes | Evet |
+| yes | evet |
 | yesterday | dün |
 | you | sen |
 | young | genç |

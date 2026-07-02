@@ -28,14 +28,14 @@
 | amazing | şaşırtıcı, şaşırtma, hayrete düşürücü |
 | and | ile, ve, sonra |
 | angry | kızmış, sinirli, hiddetli |
-| animal | hayvan, hayvan, hayvani |
+| animal | hayvan |
 | another | öbür, başka, ikinci bir |
 | answer | yanıt vermek, cevaplamak, cevap vermek |
 | any | lalettayin, bazı, her |
 | anyone | hiç kimse, kimse, herhangi bir kimse |
 | anything | hiçbir şey, her şey, bir şey |
 | apartment | daire, apartman katı, apartman dairesi |
-| apple | elma, elma |
+| apple | elma |
 | April | nisan, yılın dördüncü ayı, nisan ayı |
 | area | alan, saha, bölge |
 | arm | kol, sarılmak, destek olmak |

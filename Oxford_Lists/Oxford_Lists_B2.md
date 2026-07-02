@@ -24,7 +24,7 @@
 | acknowledge | kabullenmek, kabul etmek, doğruluğunu kabul etmek |
 | acquire | elde etmek, edinmek, iktisap etmek |
 | activate | çalıştırmak, etkinleştirmek, etkin kılmak |
-| actual | aktüel, gerçek, fiili |
+| actual | gerçek, fiili, asıl |
 | adapt | adapte etmek, uyarlamak, uymak |
 | addiction | düşkünlük, bağımlılık, hastalık |
 | additional | fazladan, ek, ilave |

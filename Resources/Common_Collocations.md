@@ -49,7 +49,7 @@
 | get married | evlenmek |
 | get old | yaşlanmak |
 | get ready | hazırlanmak |
-| get ready for | hazırlanmak |
+| get ready for | bir şeye hazırlanmak |
 | get tired | yorulmak |
 | get wet | ıslanmak |
 | give a hand | yardım etmek |
@@ -70,7 +70,7 @@
 | have a dream | rüya görmek, hayal kurmak |
 | have a headache | başı ağrımak |
 | have a look | göz atmak, bakmak |
-| have a look at | göz atmak |
+| have a look at | bir şeye göz atmak (belirli bir şeye) |
 | have a meeting | toplantı yapmak |
 | have a nightmare | kabus görmek |
 | have a party | parti vermek |

@@ -1,4 +1,4 @@
-﻿# Günlük İngilizce — Konuşma Kalıpları ve Kelimeler
+# Günlük İngilizce — Konuşma Kalıpları ve Kelimeler
 
 ## Genel Konuşma
 
@@ -6,13 +6,11 @@
 | :--- | :--- |
 | Hello | Merhaba |
 | Welcome | Hoş geldiniz |
-| Goodbye | Hoşça kalın |
 | Good morning | Günaydın |
 | Have a good day | İyi günler |
 | Good evening | İyi akşamlar |
-| Good nights | İyi geceler |
-| Goodbye | Güle güle |
-| Goodbye | Allahaısmarladık |
+| Good night | İyi geceler |
+| Goodbye | Hoşça kalın / Güle güle / Allah'a ısmarladık |
 | Today | Bugün |
 | This morning | Bu sabah |
 | This evening | Bu akşam |
