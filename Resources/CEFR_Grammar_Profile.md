@@ -27,8 +27,8 @@
 | Subjunctive Mood (İstek/Gereklilik) | It is essential that he be present. | Onun orada bulunması şarttır (be çekimsiz). |
 | Passive Causatives (Ettirgen Yapı) | I had my hair cut yesterday. | Dün saçımı kestirdim (başkasına yaptırdım). |
 | Advanced Relative Clauses (Preposition + whom/which) | The company for which he works is huge. | Çalıştığı şirket devasa büyüklükte. |
-| Double Inversion (Çifte Devriklik) | Not only did he fail, but nor did he try. | Sadece başarısız olmakla kalmadı, çabalamadı da. |
+| Double Inversion (Çifte Devriklik) | Not only did he fail, but neither did he try. | Sadece başarısız olmakla kalmadı, çabalamadı da. |
 | Cleft Sentences (Vurgulu Cümleler) | What we need is a completely new approach. | İhtiyacımız olan şey tamamen yeni bir yaklaşımdır. |
-| Complex Subjunctive with Modal Verbs | Were they to have investigated, they would know. | Araştırmış olsalardı bilirlerdi (oldukça resmi). |
+| Complex Subjunctive with Modal Verbs | Were they to have investigated, they would have known. | Araştırmış olsalardı bilirlerdi (oldukça resmi). |
 | Advanced Concessive Clauses (Albeit/Notwithstanding) | He decided to go, albeit reluctantly. | İsteksizce de olsa gitmeye karar verdi. |
 
