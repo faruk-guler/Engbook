@@ -16,8 +16,8 @@
 | This evening | Bu akşam |
 | Tonight | Bu gece |
 | Yesterday | Dün |
-| One day before | Önceki gün |
-| Yesterday night | Dün gece |
+| The day before yesterday | Evvelsi gün (Önceki gün) |
+| Last night | Dün gece |
 | Morning | Sabah |
 | At noon | Öğlen vakti |
 | Afternoon | Öğleden sonra |

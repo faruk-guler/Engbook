@@ -7,7 +7,7 @@ Bu dosya, Türkçede kelimelerin yazıldığı gibi okunmasından veya İngilizc
 | **Island** | Ada | is-land | **ay-lınd** | Ortadaki 's' harfi tamamen okunmaz (sessizdir). |
 | **Iron** | Demir, Ütü | ay-rın | **ay-ırn** | 'r' harfi vurgulanmaz, hece 'ay-ırn' şeklinde yutularak okunur. |
 | **Comfortable** | Rahat | kom-for-tey-bıl | **kamf-tı-bıl** | Ortadaki 'or' hecesi yutulur, 4 hece yerine 3 hece gibi okunur. |
-| **Vegetable** | Sebze | ve-ge-tey-bıl | **vec-tı-bıl** | Comfortabe kelimesindeki gibi 'e' yutulur ve 3 hece gibi okunur. |
+| **Vegetable** | Sebze | ve-ge-tey-bıl | **vec-tı-bıl** | Comfortable kelimesindeki gibi 'e' yutulur ve 3 hece gibi okunur. |
 | **Recipe** | Yemek tarifi | re-sip | **re-si-pi** | İngilizcede kelime sonundaki 'e' genelde okunmaz ama bu kelimede '-pi' olarak okunur. |
 | **Determine** | Belirlemek | de-ter-mayn | **di-tör-min** | Sonundaki '-mine' hecesi 'mayn' (mine) gibi değil, 'min' gibi okunur. |
 | **Archive** | Arşiv | ar-şiv / ar-çiv | **ar-kayv** | 'ch' harfleri burada 'k' sesini verir. |

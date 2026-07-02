@@ -13,7 +13,7 @@ Bu dosya, Türkçedeki kelimelerle ses veya yazılış olarak çok benzeyen anca
 | **Fabric** | Fabrika | Üretim yeri | Kumaş, yapı | This shirt is made of high-quality cotton **fabric**. *(Bu gömlek yüksek kaliteli pamuklu kumaştan yapılmıştır.)* |
 | **Chef** | Şef | Yönetici, amir | Aşçıbaşı, aşçı | The **chef** prepared a special menu for the guests. *(Şef/aşçıbaşı misafirler için özel bir menü hazırladı.)* |
 | **Control** | Kontrol etmek | Denetlemek, gözden geçirmek | Yönetmek, hakim olmak | You need to **control** your anger. *(Öfkeni kontrol etmen/yönetmen gerekiyor. Denetlemek anlamında "check" kullanılır.)* |
-| **Director** | Direktör | Müdür, yönetici | Yönetmen (sinema/tiyatro vb.) | The **director** of the film won an award. *(Filmin yönetmeni bir ödül kazandı.)* |
+| **Director** | Direktör | Sadece şirket yöneticisi | Yönetmen (sinema/tiyatro vb.) veya şirket müdürü/yöneticisi (iki anlama da gelir) | The **director** of the film won an award. *(Filmin yönetmeni bir ödül kazandı.)* |
 | **Deception** | Deşifre / Hayal kırıklığı | Aldatmak / Ortaya çıkarmak | Aldatma, kandırma | Trust is gone once there is **deception** in a relationship. *(Bir ilişkide aldatma/yalan olduğunda güven biter.)* |
 | **Eventually** | Evvela | İlk olarak, öncelikle | Sonunda, nihayetinde | We had many problems, but **eventually** we succeeded. *(Birçok sorun yaşadık ama sonunda başardık.)* |
 | **Morose** | Horoz / Huysuz | Horoz | Somurtkan, aksi, huysuz | He became **morose** and refused to speak to anyone. *(Somurtkanlaştı ve kimseyle konuşmayı kabul etmedi.)* |

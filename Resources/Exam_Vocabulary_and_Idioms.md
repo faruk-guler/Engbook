@@ -20,7 +20,6 @@
 | apathy | ilgisizlik, kayıtsızlık, uyuşukluk |
 | arbitrary | keyfi, rastgele |
 | archetype | özgün örnek, prototip |
-| as a matter of fact | aslına bakılırsa, aslında |
 | assiduous | gayretli, çalışkan, sebatkar |
 | audacity | cüret, cesaret, küstahlık |
 | austere | sade, gösterişsiz, sert (yaşam tarzı) |
@@ -139,10 +138,3 @@
 | latent | gizil, uykuda olan, latent |
 | lethargic | uyuşuk, uykulu, halsiz |
 | loquacious | konuşkan, geveze |
-| make up one's mind | karar vermek |
-| once in a while | arada sırada, tek tük |
-| piece of cake | çocuk oyuncağı, çok kolay |
-| spill the beans | baklayı ağzından çıkarmak, sırrı ifşa etmek |
-| take care | kendine iyi bak |
-| take into account | göz önünde bulundurmak, hesaba katmak |
-
