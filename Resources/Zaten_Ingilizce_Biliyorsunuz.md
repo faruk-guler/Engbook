@@ -1,4 +1,4 @@
-# Siz Zaten İngilizce Biliyorsunuz
+# Zaten İngilizce Biliyorsunuz
 
 | Türkçe | İngilizce (Karşılığı) |
 | :--- | :--- |
