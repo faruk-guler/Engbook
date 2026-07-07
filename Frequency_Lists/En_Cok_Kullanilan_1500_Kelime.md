@@ -1,7 +1,5 @@
 # İngilizcede En Çok Kullanılan 1500 Kelime
 
-## En Çok Kullanılan Kelimeler
-
 | İngilizce | Türkçe |
 | :--- | :--- |
 | Abolish | İptal Etmek |
