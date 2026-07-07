@@ -1,9 +1,6 @@
 # İngilizcede En Çok Kullanılan 1500 Kelime
 
-> ⚠️ **Not:** Bu listedeki kelimeler büyük harfle yazılmış olup alfabetik sıralaması karışmış durumdadır. İçerik doğru olmakla birlikte format düzeltmesi gerekiyor.
-
 ## En Çok Kullanılan Kelimeler
-
 
 | İngilizce | Türkçe |
 | :--- | :--- |
